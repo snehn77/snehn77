@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/snehn77)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://snehportfolio.netlify.app/)**
 
 - 📫 How to reach me **snehn777@gmail.com**
 
