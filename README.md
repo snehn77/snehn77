@@ -1,15 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sneh</h1>
-<h3 align="center">Full Stack Developer, India</h3>
+<h3 align="center">Full Stack Developer, United States</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Superman Project
+- 🔭 I’m currently working as a Machine Learning Intern at Intel
 
-- 🌱 I’m currently learning **React-Native and JavaScript.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects** and find opportunites to work fulltime in any company as any of the following Software Engineer/Machine Learning Engineer/Data Engineer
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://snehportfolio.netlify.app/)**
 
